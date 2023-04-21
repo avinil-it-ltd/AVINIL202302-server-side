@@ -8,7 +8,7 @@ const DataSchema = mongoose.Schema(
         imageUrl:{type:String},
         roll:{type:Number,default:0},
         group:{type:String},
-    mobile:{type:Number},    
+        mobile:{type:Number},    
         address:{type:String},
         fatherName:{type:String},
         motherName:{type:String},
